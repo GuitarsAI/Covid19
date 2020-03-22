@@ -1,5 +1,4 @@
-# Covid19
-Tutorial Básico: Análise de Dados Covid-19 utilizando Python
+# Tutorial Básico: Análise de Dados Covid-19 utilizando Python
 
 Uma tutorial basico sobre análise de dados utilizando o dataset CSSEGISandData/COVID-19 da CSSE at Johns Hopkins University
 
