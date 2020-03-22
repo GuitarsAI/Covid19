@@ -11,12 +11,12 @@ Uma tutorial basico sobre análise de dados utilizando o dataset CSSEGISandData/
 - 02 Parte 2: <br>
 [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/Covid19/blob/master/CoronaData_Part2.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/Covid19/master?filepath=CoronaData_Part2.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/Covid19/blob/master/CoronaData_Part2.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/6isr3mEpu44)
   - Obtenção de Dados
-   - API
-   - HTTP GET
-   - JSON
+      - API
+      - HTTP GET
+      - JSON
   - Transformação de Dados
-   - Dicionário Python
-   - Pandas Dataframe
+      - Dicionário Python
+      - Pandas Dataframe
   - Manipulação de Dados
   - Ajustes de Curvas e Previsões
   - Visualização de Dados
